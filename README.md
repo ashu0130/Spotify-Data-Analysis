@@ -15,5 +15,3 @@ This project demonstrates a complete data analysis workflow using Spotify listen
 - NumPy
 - Matplotlib
 - Seaborn
-
-## Project Structure
